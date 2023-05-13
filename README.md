@@ -5,3 +5,7 @@ Examples
 Run:  
 Example_AperSignals.mlx, Example_PerSignals.mlx, Example_Convolution.mlx  
 in MATLAB or browser to get the plots and see how to configure the input parameters.
+
+<a href="https://github.com/etfovac/waveform/blob/main/graphics/periodic.png"><img src="https://github.com/etfovac/waveform/blob/main/graphics/periodic.png"></a>  
+<a href="https://github.com/etfovac/waveform/blob/main/graphics/aperiodic.png"><img src="https://github.com/etfovac/waveform/blob/main/graphics/aperiodic.png"></a>  
+<a href="https://github.com/etfovac/waveform/blob/main/graphics/convolution.png"><img src="https://github.com/etfovac/waveform/blob/main/graphics/convolution.png"></a>  
