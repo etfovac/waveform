@@ -1,5 +1,5 @@
 # Waveform
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=etfovac/waveform)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/waveform/blob/master/LICENSE)  [![DOI](https://zenodo.org/badge/405387678.svg)](https://zenodo.org/badge/latestdoi/405387678)  
+[![View Signal waveform on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ch.mathworks.com/matlabcentral/fileexchange/129564-signal-waveform)  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=etfovac/waveform)  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/etfovac/waveform/blob/master/LICENSE)  [![DOI](https://zenodo.org/badge/405387678.svg)](https://zenodo.org/badge/latestdoi/405387678) 
 
 Open *.mlx* examples:  
   -  *Example_AperSignals.mlx*  
